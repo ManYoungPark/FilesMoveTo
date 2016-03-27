@@ -14,7 +14,7 @@ public class test
 	{
 		// TODO Auto-generated method stub
 
-		String dirs1 = "G:\\All_pft_txt";
+		String dirs1 = "G:\\All_pft_txts";
 		String destdir = "G:\\PFT_image\\medinfo_emr_after";
 
 		File myFile = new File(dirs1);
